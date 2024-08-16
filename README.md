@@ -34,7 +34,8 @@ https://github.com/user-attachments/assets/e50206a1-bf17-440d-8aa9-82f5a9417e8d
 -   [ffmpeg](https://www.youtube.com/watch?v=OlNWCpFdVMA) 
 -   [visual studio 2022 runtimes (windows)](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
 #### 2. Clone Repository
-    https://github.com/hacksider/Deep-Live-Cam.git
+    git clone https://github.com/Mrkomiljon/Deep-Live-Monitor.git
+    cd Deep-Live-Monitor
 
 #### 3. Download Models
 
