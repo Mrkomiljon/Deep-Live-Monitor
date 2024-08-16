@@ -49,8 +49,8 @@ We highly recommend to work with a  `venv`  to avoid issues.
 ```
 pip install -r requirements.txt
 ```
-##### DONE!!! If you dont have any GPU, You should be able to run roop using `python run.py` command. Keep in mind that while running the program for first time, it will download some models which can take time depending on your network connection.
-
+##### 🔥 DONE!!! If you dont have any GPU, You should be able to run roop using `python run.py` command. Keep in mind that while running the program for first time, it will download some models which can take time depending on your network connection.
+If the GFPGAN model doesn't download automatically, download it manually!
 ### *Proceed if you want to use GPU Acceleration
 ### CUDA Execution Provider (Nvidia)*
 
