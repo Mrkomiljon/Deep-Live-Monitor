@@ -173,3 +173,10 @@ options:
   --execution-threads EXECUTION_THREADS                    number of execution threads
   -v, --version                                            show program's version number and exit
 ```
+## Acknowledgements
+I would like to thank main [authors](https://github.com/hacksider/Deep-Live-Cam).
+
+（Some demo images/videos above are sourced from image websites/repos. If there is any infringement, I will immediately remove them and apologize.）
+
+
+
