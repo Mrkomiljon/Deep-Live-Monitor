@@ -1,6 +1,6 @@
 # Deep-Live-Monitor
 If you find this project useful, please give it a star ❤️❤️
-## Results  
+## Results 🔥🔥🔥🔥🔥🔥🔥 
 
 https://github.com/user-attachments/assets/3b7794fa-c777-45c1-a225-6d4cdd69c85c
 
@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/173891c8-8b39-43d6-8d8a-8ae2594c9379
 https://github.com/user-attachments/assets/e50206a1-bf17-440d-8aa9-82f5a9417e8d
 
 
-## How do I install it?
+## 🔥 How do I install it?
 
 
 ### I tested it on Windows, RTX 4090, 24Gb. Inference speed is a little bit lower
@@ -139,7 +139,7 @@ pip install onnxruntime-openvino==1.15.0
 python run.py --execution-provider openvino
 ```
 
-Executing `python run.py` --execution-provider **cuda**  command will launch this window:
+🔥 Executing `python run.py` --execution-provider **cuda**  command will launch this window:
 
 
 - Choose a face image (the face you want to use).
@@ -153,7 +153,7 @@ Executing `python run.py` --execution-provider **cuda**  command will launch thi
 You should open any video on desktop
 
 
-Additional command line arguments are given below. To learn out what they do, check [this guide](https://github.com/s0md3v/roop/wiki/Advanced-Options).
+🔥 Additional command line arguments are given below. To learn out what they do, check [this guide](https://github.com/s0md3v/roop/wiki/Advanced-Options).
 
 ```
 options:
@@ -173,7 +173,7 @@ options:
   --execution-threads EXECUTION_THREADS                    number of execution threads
   -v, --version                                            show program's version number and exit
 ```
-## Acknowledgements
+## 🔥🔥🔥 Acknowledgements
 I would like to thank main [authors](https://github.com/hacksider/Deep-Live-Cam).
 
 （Some demo images/videos above are sourced from image websites/repos. If there is any infringement, I will immediately remove them and apologize.）
